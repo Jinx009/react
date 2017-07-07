@@ -50,7 +50,7 @@ var HelloMessage = React.createClass({
     }
 });
 ReactDOM.render(
-    <HelloMessage name="Runoob"/>,
+    <HelloMessage name="jinx"/>,
     document.getElementById('example5')
 );
 
